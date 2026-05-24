@@ -1,0 +1,10 @@
+[package]
+name = "secure_vault"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+env_logger = "0.11.10"
+fuser = "0.11.1"
+libc = "0.2.186"
+log = "0.4.29"
